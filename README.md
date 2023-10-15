@@ -16,6 +16,8 @@ Delete the issue.
 built on nextjs 
 ###  Vercel
 Deployed on vercel
+### TypeScript
+### Tailwind
 ### MySql
 DataBase Engine 
 MySql has been implemented in this project
@@ -28,6 +30,7 @@ Api was built for the project with the help of Postman.
 ### Radix UI
 Used to create the Issue Page with a custom Radix Ui theme.
 ### Error Handling
+
 
 
 

@@ -3,7 +3,7 @@
 
 ## FullStack Bug Tracking App
 
-A fullstack application built with Next.js used to keep track of all the bugs and issues in any system model. This standalone project can be implemented in any corporation or an organisation tech team to keep track of all the issues the face in any of their projects, along with error handling and client side validation!. Built with Prisma, Next.js(Vercel) , and an Api was created for the project. As a result of which it has an aesthetic yet simple outlook!.
+A fullstack application built with Next.js used to keep track of all the bugs and issues in any system model. This standalone project can be implemented in any corporation or an organisation tech team to keep track of all the issues the face in any of their projects, along with error handling and client side validation!. Built with Prisma, Next.js(Vercel),TypeScript , and an Api was created for the project. As a result of which it has an aesthetic yet simple outlook!.
 With this one can 
 Check an issue.
 View an issue.
